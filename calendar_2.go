@@ -17,6 +17,7 @@ const APPKEY = "056140b55464ff51"                       //appkey
 const jisuURL = "http://api.jisuapi.com/calendar/query" //接口地址
 const Date = "2017-9-21"                                //查询时间
 
+// test
 func main() {
 	//获取详细的当天信息，函数
 	Request()
