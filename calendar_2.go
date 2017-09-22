@@ -63,5 +63,4 @@ func Get(apiURL string, param url.Values) (rs []byte, err error) {
 	return ioutil.ReadAll(resp.Body)
 }
 
-//jdjksdkdsldl
-//isiisimsmmsmmsd
+//jdjksdkdsl
